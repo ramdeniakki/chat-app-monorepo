@@ -38,4 +38,5 @@ yarn-error.log*
 *.pem
 
 .turbo
-.vscode
+
+vscode
